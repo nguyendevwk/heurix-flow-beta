@@ -1,58 +1,79 @@
+<div align="center">
+
 # HEURIX FLOW
 
-**Trợ lý chơi nhạc tự động & luyện đàn 15 phím dành cho *Sky: Children of the Light***
+### The Next-Generation Musical Companion & 15-Key Practice Studio for *Sky: Children of the Light*
 
-HEURIX FLOW giúp bạn thưởng thức và luyện tập những bản nhạc yêu thích ngay trong thế giới Sky với độ mượt tự nhiên, thao tác điều khiển nổi tối giản không che khuất tầm nhìn, cùng không gian luyện đàn 15 phím riêng ngay trong ứng dụng.
+Perform expressive arrangements effortlessly in-game, curate thousands of sheets in seconds, and master any melody with interactive visual guidance — all inside a sleek, distraction-free experience.
 
----
+[![Release](https://img.shields.io/badge/Release-v0.2.0--beta.1-ff79c6?style=for-the-badge)](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/beta-v0.2.0)
+[![Platform](https://img.shields.io/badge/Platform-Android%209%2B-8be9fd?style=for-the-badge)](https://github.com/nguyendevwk/heurix-flow-beta/releases)
+[![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-bd93f9?style=for-the-badge)](#-key-highlights)
 
-## Tính năng nổi bật
-
-- **Thư viện nhạc thông minh & mượt mà**
-  - Tìm kiếm tức thì theo tên bài, lọc nhanh theo **Yêu thích**, **Gần đây** hoặc **Danh mục** cá nhân.
-  - Hiển thị trực quan thời lượng, tông nhạc, nhịp độ (BPM), số lớp nhạc và chế độ chơi phù hợp cho từng bài.
-  - Nghe thử giai điệu trước khi phát ngay trong thư viện; hỗ trợ nhập từng bài hoặc cả thư mục nhạc nhanh chóng.
-
-- **Chơi nhạc tự nhiên với 3 sắc thái**
-  - Hỗ trợ **Chạm nhanh**, **Giữ ngắn** và **Giữ ngân trọn nốt** cho cảm giác biểu diễn có hồn, đúng nhịp.
-  - Dễ dàng điều chỉnh tốc độ chậm/nhanh hoặc bật/tắt từng lớp nhạc (giai điệu chính, bè đệm) theo ý muốn.
-
-- **Bảng điều khiển nổi siêu gọn ngay trên màn hình game**
-  - Hỗ trợ 2 phong cách thao tác linh hoạt theo thói quen của bạn:
-    - **Thanh 2 nút nhanh**: Chạm phát/tạm dừng tức thì 1 chạm và mở bảng điều khiển riêng biệt, không bấm nhầm.
-    - **1 bong bóng thu gọn**: Tối giản diện tích tối đa trên màn hình game; chạm để mở bảng, bấm phát là tự thu nhỏ lại.
-  - Đầy đủ công cụ nhanh ngay trên bảng nổi: tua đoạn, đổi tốc độ, chọn **Lặp 1 lần / Lặp vô hạn**, **Tự động chuyển bài kế tiếp** và đổi bài nhanh.
-  - Tự động tạm dừng an toàn khi bạn chạm vào màn hình hoặc thoát ra ngoài để không gây rối thao tác trong game.
-
-- **Không gian luyện đàn trực quan (Studio 15 phím)**
-  - Chuyển đổi nhiều âm sắc nhạc cụ quen thuộc (Piano, Harp, Flute, Guitar, Violin).
-  - Có chế độ dẫn nốt trực quan và tập theo từng bước giúp bạn dễ dàng tự đánh lại bài hát yêu thích.
-
-- **Hỗ trợ song ngữ đầy đủ**: Giao diện hoàn chỉnh bằng **Tiếng Việt** và **Tiếng Anh**.
+</div>
 
 ---
 
-## Hình ảnh thực tế trên ứng dụng
+## ✨ Why Players Love HEURIX FLOW
 
-| Thư viện nhạc | Bảng điều khiển |
-| :---: | :---: |
-| <img src="screenshots/library.png" width="260" alt="Thư viện nhạc HEURIX FLOW" /> | <img src="screenshots/controls.png" width="260" alt="Màn hình điều khiển HEURIX FLOW" /> |
+### 🎵 Expressive Performance, Never Robotic
+Bring every song to life with three natural touch styles — **Quick Tap**, **Short Hold**, and **Full Sustain**. Fine-tune playback speed from slow practice tempos to full performance pace, and toggle individual melody or accompaniment layers on the fly.
 
-| Cài đặt & Tùy biến | Studio luyện đàn 15 phím |
-| :---: | :---: |
-| <img src="screenshots/settings.png" width="260" alt="Cài đặt HEURIX FLOW" /> | <img src="screenshots/studio.png" width="380" alt="Studio luyện đàn 15 phím" /> |
+### 🫧 Unobtrusive Floating Overlay Built for Gameplay
+Keep your focus on the world around you with a whisper-thin floating controller that never gets in the way:
+- **Two Signature Control Styles**: Switch anytime between the ultra-fast **2-Button Quick Pill** (instant one-tap Play/Pause alongside a dedicated Menu trigger) or the minimalist **Single Bubble** mode.
+- **On-the-Fly Control**: Adjust tempo, scrub through sections, switch tracks, toggle **Repeat (`Off` / `1×` / `Continuous`)**, or enable **Auto-Play Next** directly from the floating panel without ever leaving the game.
+- **Smart Interruption Protection**: Automatically steps aside the moment you touch the game screen or switch apps, keeping your movement and camera seamless.
+
+### 📚 Instant Library for Massive Collections
+Effortlessly browse thousands of sheets with zero stutter. Search instantly by title, filter by **Favorites**, **Recent**, or custom **Categories**, inspect BPM, musical key, duration, and layers at a glance, and audition melodies with built-in audio preview before you play.
+
+### 🎹 Built-in 15-Key Instrument Studio
+Practice offline anytime with realistic instrument voices (**Piano**, **Harp**, **Flute**, **Guitar**, and **Violin**). Follow falling note trails and step-by-step visual cues to learn songs by heart before performing live with friends.
 
 ---
 
-## Hai phiên bản phát hành Beta
+## 📱 Product Showcase
 
-1. **Bản Tiêu chuẩn (Gọn nhẹ)**: Dành cho bạn muốn cài nhanh, nhẹ máy và tự thêm các bản nhạc riêng.
-2. **Bản Tích hợp sẵn kho nhạc**: Bộ sưu tập hàng nghìn bản nhạc đã được đóng gói sẵn ngay trong ứng dụng — cài đặt và mở lên là có thể thưởng thức ngay mà không cần tải thêm tệp rời.
+<div align="center">
+
+| Music Library | Playback Controls | Preferences & Customization |
+| :---: | :---: | :---: |
+| <img src="screenshots/library.png" width="230" alt="HEURIX FLOW Music Library" /> | <img src="screenshots/controls.png" width="230" alt="HEURIX FLOW Playback Controls" /> | <img src="screenshots/settings.png" width="230" alt="HEURIX FLOW Settings" /> |
+
+<br />
+
+| 15-Key Practice Studio |
+| :---: |
+| <img src="screenshots/studio.png" width="640" alt="HEURIX FLOW 15-Key Studio" /> |
+
+</div>
 
 ---
 
-## Bắt đầu nhanh trong 3 bước
+## 📦 Choose Your Beta Edition
 
-1. **Cài đặt ứng dụng** và mở lên (cần kết nối mạng ở lần đầu để xác nhận bản thử nghiệm hợp lệ và kiểm tra cập nhật mới).
-2. Vào mục **Cài đặt** → cấp quyền **Hiển thị trên ứng dụng khác** và **Trợ năng**, sau đó mở game và **Căn chỉnh 15 phím** khớp với đàn trong game.
-3. Chọn bài nhạc yêu thích, nhấn **Phát** trên bảng điều khiển nổi và thưởng thức.
+Both editions include the full feature set and receive automatic in-app update checks:
+
+| Edition | Download Package | Best For |
+| :--- | :--- | :--- |
+| **Standard Edition** *(Lightweight)* | `heurix-flow-0.2.0-beta.1-no-sheets.apk` | Players who prefer a compact install and already maintain their own personal song collection. |
+| **Full Pack Edition** *(Pre-Loaded Library)* | `heurix-flow-0.2.0-beta.1-with-sheets.apk` | Players who want **7,150+ ready-to-play sheets** built right into the app — install once, open, and play immediately with no separate file extraction required. |
+
+👉 **[Download from the Beta Release Page](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/beta-v0.2.0)**
+
+---
+
+## 🚀 Getting Started in 3 Simple Steps
+
+1. **Install & Verify**: Open **HEURIX FLOW** while connected to the internet on first launch to verify your beta access and stay up to date with new releases.
+2. **Quick Setup**: Enable the floating display and Accessibility permissions inside **Settings**, then align the 15-key layout once to match your device screen.
+3. **Play Anywhere**: Pick any song from your library, tap **Play** on the floating controller inside *Sky*, and enjoy.
+
+---
+
+## 🌐 Bilingual Experience
+
+Full interface support in **English** and **Vietnamese (Tiếng Việt)** — switch seamlessly anytime in Settings.
+
+> *Beta Preview Notice: Access and updates are managed centrally through this release channel. When a mandatory update is released or a beta cycle concludes, the app will guide you directly to the latest version.*
