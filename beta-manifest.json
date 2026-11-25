@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "status": "ACTIVE",
+    "signatureId": "beta-2026-11-demo-v1",
+    "minSupportedVersionCode": 4,
+    "latestVersionCode": 4,
+    "latestVersionName": "0.2.0-beta.1",
+    "forceUpdate": false,
+    "apkUrl": "https://github.com/nguyendevwk/heurix-flow-beta/releases/download/beta-v0.2.0/heurix-flow-0.2.0-beta.1-no-sheets.apk",
+    "apkSha256": "e94e64c8bb4d82d3ae252adcd682eb28c968fd7b970c0e94df1e10d61f765369",
+    "allowedCertSha256": [
+      "75b8d62e8b194e21e976b4f3481d1073836cb333a176b80e59b1f109bcdb6412"
+    ],
+    "expiresAtMs": 1806537600000,
+    "issuedAtMs": 1795626281554,
+    "message": ""
+  },
+  "sig": "MEQCICBvRc50Z6VA6uEyluENRVnSnu2WD9FAUYUoUPn/RyevAiAryBkG+8Z/bFQP+Mq+CuDV+H6MoZfNW0/cdRYyT66W/g=="
+}
