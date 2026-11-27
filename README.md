@@ -6,7 +6,7 @@
 
 Perform expressive arrangements effortlessly in-game, curate thousands of sheets in seconds, and master any melody with interactive visual guidance — all inside a sleek, distraction-free experience.
 
-[![Release](https://img.shields.io/badge/Release-v0.2.0--beta.1-ff79c6?style=for-the-badge)](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/beta-v0.2.0)
+[![Release](https://img.shields.io/badge/Release-v0.2.0--beta.2-ff79c6?style=for-the-badge)](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/v0.2.0-beta.2)
 [![Platform](https://img.shields.io/badge/Platform-Android%209%2B-8be9fd?style=for-the-badge)](https://github.com/nguyendevwk/heurix-flow-beta/releases)
 [![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-bd93f9?style=for-the-badge)](#-key-highlights)
 
@@ -57,10 +57,10 @@ Both editions include the full feature set and receive automatic in-app update c
 
 | Edition | Download Package | Best For |
 | :--- | :--- | :--- |
-| **Standard Edition** *(Lightweight)* | `heurix-flow-0.2.0-beta.1-no-sheets.apk` | Players who prefer a compact install and already maintain their own personal song collection. |
-| **Full Pack Edition** *(Pre-Loaded Library)* | `heurix-flow-0.2.0-beta.1-with-sheets.apk` | Players who want **7,150+ ready-to-play sheets** built right into the app — install once, open, and play immediately with no separate file extraction required. |
+| **Standard Edition** *(Lightweight)* | `heurix-flow-0.2.0-beta.2-no-sheets.apk` | Players who prefer a compact install and already maintain their own personal song collection. |
+| **Full Pack Edition** *(Pre-Loaded Library)* | `heurix-flow-0.2.0-beta.2-with-sheets.apk` | Players who want **7,150+ ready-to-play sheets** built right into the app — install once, open, and play immediately with no separate file extraction required. |
 
-👉 **[Download from the Beta Release Page](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/beta-v0.2.0)**
+👉 **[Download from the Beta Release Page](https://github.com/nguyendevwk/heurix-flow-beta/releases/tag/v0.2.0-beta.2)**
 
 ---
 
