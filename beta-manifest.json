@@ -1,19 +1,19 @@
 {
   "payload": {
     "status": "ACTIVE",
-    "signatureId": "beta-2026-11-27-v2",
-    "minSupportedVersionCode": 5,
-    "latestVersionCode": 5,
-    "latestVersionName": "0.2.0-beta.2",
+    "signatureId": "beta-2026-11-27-v3",
+    "minSupportedVersionCode": 6,
+    "latestVersionCode": 6,
+    "latestVersionName": "0.2.0-beta.3",
     "forceUpdate": false,
-    "apkUrl": "https://github.com/nguyendevwk/heurix-flow-beta/releases/download/v0.2.0-beta.2/heurix-flow-0.2.0-beta.2-no-sheets.apk",
-    "apkSha256": "5f343a4f0fb7b4e2009e3c08142f9778ee4647d1321b356698ea3fae33ee0b9e",
+    "apkUrl": "https://github.com/nguyendevwk/heurix-flow-beta/releases/download/v0.2.0-beta.3/heurix-flow-0.2.0-beta.3-no-sheets.apk",
+    "apkSha256": "239cc0c614dbc4227d60727e0a3a45e0284744e169f170309601dca8e46fd22e",
     "allowedCertSha256": [
       "c8bea33e98c9683c3d085225c35257f170da663df6a2bd3318ca6a94a7eb808f"
     ],
     "expiresAtMs": 1806537600000,
-    "issuedAtMs": 1795763024228,
+    "issuedAtMs": 1795765386857,
     "message": ""
   },
-  "sig": "MEYCIQD+z1DT4msvxjWdPeac6/skPc17rzFExa2iK3AjdtSjCgIhANGd5E2487mgFAWG09dS6QswCu6KXrAKLoUpqw32wjCP"
+  "sig": "MEUCIQC0I5mNiBSooJihpM9XC2N6n7PH2M5iDwvLtbtU5UOKlQIgCKlqb0WmLm3cC9G0qE4KFnx/cmyFkpmiJ6/UnvuRNB0="
 }
